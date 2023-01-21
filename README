@@ -1,0 +1,5 @@
+Here is the code and data files in python having version 3.6. 
+The training and test data are in inverse atomic coordinates. 
+The subroutine symfuncs.py is used for the symmetrization.
+The final code total-gp.py is run by command: 
+python total-gp.py
